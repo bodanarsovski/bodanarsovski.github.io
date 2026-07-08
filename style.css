@@ -11,7 +11,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#EF6D3D;
+  color:#0687F5;
 }
 a:focus {
   outline: thin dotted;
@@ -99,7 +99,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#000000;
-  border-bottom-color:#EF6D3D;
+  border-bottom-color:#0687F5;
 }
 .hide {
   display:none;
